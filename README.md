@@ -8,8 +8,8 @@ The Agile Project Management templates provide the following:
 * Gantt Charts
 
 Sprint Example
-![Sprint](https://github.com/RodneyFaris/AgileProjectManagement/docs/sprint.png)
-![Sprints](https://github.com/RodneyFaris/AgileProjectManagement/docs/Sprints.png)
-![Stories](https://github.com/RodneyFaris/AgileProjectManagement/docs/stories.png)
-![Burndown Charts](https://github.com/RodneyFaris/AgileProjectManagement/docs/burndownchart.png)
-![Resources](https://github.com/RodneyFaris/AgileProjectManagement/docs/resources.png)
+![Sprint](AgileProjectManagement/docs/Sprint.PNG)
+![Sprints](AgileProjectManagement/docs/Sprints.png)
+![Stories](AgileProjectManagement/docs/stories.png)
+![Burndown Charts](AgileProjectManagement/docs/burndownchart.png)
+![Resources](AgileProjectManagement/docs/resources.png)
