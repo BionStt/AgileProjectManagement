@@ -9,7 +9,8 @@ The Agile Project Management templates provide the following:
 
 Sprint Example
 ![Sprint](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/Sprint.PNG?raw=true)
-![Sprints](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/Sprints.png?raw=true)
-![Stories](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/stories.png?raw=true)
-![Burndown Charts](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/burndownchart.png?raw=true)
-![Resources](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/resources.png?raw=true)
+![Sprints](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/Sprints.PNG?raw=true)
+![Tasks](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/Tasks.PNG?raw=true)
+![Stories](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/stories.PNG?raw=true)
+![Burndown Charts](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/burndownchart.PNG?raw=true)
+![Resources](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/resources.PNG?raw=true)
