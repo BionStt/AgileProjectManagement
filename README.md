@@ -5,8 +5,6 @@ The Agile Project Management templates provide the following:
 * Sprints
 * Stories
 * Burndown Charts
-* Gantt Charts
-
 Sprint
 ![Sprint](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/Sprint.PNG?raw=true)
 Sprints
