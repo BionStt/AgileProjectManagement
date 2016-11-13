@@ -12,7 +12,7 @@ Sprints
 Tasks
 ![Tasks](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/Tasks.PNG?raw=true)
 Stories
-![Stories](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/stories.png?raw=true)
+![Stories](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/stories.PNG?raw=true)
 Burndown Chart
 ![Burndown Chart](https://github.com/RodneyFaris/AgileProjectManagement/blob/master/docs/burndownchart.PNG?raw=true)
 Resources
